@@ -1,55 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:00ffff,70:ff00ff,100:0d0d1a&height=220&section=header&text=HARSHIT%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=◈%20Agentic%20AI%20·%20GenAI%20·%20Forensic%20AI%20·%20Full-Stack%20◈&descAlignY=62&descSize=13&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:00ffff,70:ff00ff,100:0d0d1a&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg" width="160" style="border-radius: 16px; margin: 16px 0;" />
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=HARSHIT+KUMAR" alt="Harshit Kumar" />
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=900&color=FF00FF&center=true&vCenter=true&width=700&lines=⟦+Agentic+AI+·+GenAI+·+Forensic+AI+⟧;⟦+LangGraph+·+LangChain+·+Groq+LLM+⟧;⟦+Deepfake+Detection+·+Multi-Agent+Systems+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+Student+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://api.dicebear.com/8.x/pixel-art/svg?seed=HarshitKumar&backgroundColor=0d0d1a&clothingColor=00ffff&skinColor=f5cfa0&width=130&height=130" width="130"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=⟦+Building+Agentic+AI+Systems+⟧;⟦+Generative+AI+%7C+LangGraph+%7C+LangChain+⟧;⟦+Deepfake+Detection+%7C+Forensic+AI+⟧;⟦+FastAPI+%7C+LLM+Integration+%7C+Multi-Agent+⟧;⟦+React+%7C+Node.js+%7C+Full-Stack+⟧;⟦+CSE+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/GOAL-AI%2FML%20INTERNSHIP%202026-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🎯_GOAL-AI%2FML_Internship_2026-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/📍_LOCATION-IIIT_Kota,_Rajasthan-ff00ff?style=for-the-badge&labelColor=0d0d1a)
 ![](https://komarev.com/ghpvc/?username=Harshit-ops-code&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d0d1a)
 
 </div>
 
-<br/>
+---
+
+## ◈ About Me
+
+Hey! I'm **Harshit Kumar**, a Computer Science student at **IIIT Kota** who builds AI systems that actually work in the real world — not just in notebooks.
+
+I started with competitive programming in C++, got hooked on backend engineering, and now I'm deep into **Agentic AI and Generative AI** — building multi-agent pipelines, forensic AI platforms, and full-stack applications from scratch.
+
+My biggest project right now, **TruthShield**, detects deepfakes and AI-generated disinformation with ~92% accuracy across diagnostics. It's live, it's real, and it handles 10,000+ daily verifications.
+
+When I'm not building, I'm either grinding DSA on LeetCode, leading technical events at **Tecknow Society**, or training Taekwondo at the national level.
+
+> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I went from C++ to building AI pipelines as a first-year student.*
 
 ---
 
-## ◈ SYSTEM.INIT — About Me
-
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│  $ whoami                                                    │
-│  > Harshit Kumar — CSE @ IIIT Kota (2024–2028)             │
-│                                                              │
-│  $ cat current_stack.txt                                     │
-│  > Agentic AI · LangGraph · LangChain · FastAPI · Groq LLM  │
-│  > Gemini API · Hugging Face · React · Node.js · C++        │
-│                                                              │
-│  $ cat learning.txt                                          │
-│  > RAG Pipelines · Vector Databases · System Design         │
-│  > Advanced ML · Prompt Engineering                         │
-│                                                              │
-│  $ cat mission.txt                                           │
-│  > Secure AI/ML Backend internship · 2026                   │
-│  > Build real-world AI systems that actually work           │
-│                                                              │
-│  $ cat fun_fact.txt                                          │
-│  > National-level Taekwondo player 🥋                        │
-│  > Top 6,000 of 54,000+ — ET Gen AI Hackathon 🚀            │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ◈ AI_PROJECTS.exe
+## ◈ AI Projects
 
 <table>
 <tr>
@@ -65,19 +50,19 @@
 ![](https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/ACCURACY-~92%25-ff00ff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/LATENCY-<120ms-00ffff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/SCALE-10K+_daily-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Multi-API forensic AI system detecting deepfakes, AI-generated text, and coordinated phishing attacks in real time.
+> Real-time multi-API system detecting deepfakes, AI-generated text, and phishing attacks across text, image, and social channels.
 
-**⚡ Key Metrics:**
-- 🎯 **~92%** detection accuracy overall
+- 🎯 **~92%** overall detection accuracy
 - 🔍 **~94%** on text scam identification
 - 👁️ **~89%** on visual deepfake forensics
 - ⚡ **<120ms** text · **<1.8s** visual queries
-- 📈 **10,000+** daily verifications supported
+- 📈 Supports **10,000+** daily verifications
+- 🧩 Chrome Extension (Manifest V3) for browser audits
+- 📱 SMS/WhatsApp social engineering detection
 
-**🔧 Stack:** `Groq LLM` `Gemini API` `Hugging Face` `Cerebras` `FastAPI` `TypeScript` `Node.js` `Python`
-
-**🧩 Features:** Chrome Extension (MV3) · SMS/WhatsApp threat detection · Cross-modal disinformation analysis
+`Python` `FastAPI` `Groq LLM` `Gemini API` `Hugging Face` `Cerebras` `TypeScript` `Node.js`
 
 [🔗 GitHub](https://github.com/Harshit-ops-code/Truthshield) · [🌐 Live Demo](https://truthshield-nu.vercel.app)
 
@@ -91,21 +76,20 @@
 
 </div>
 
-![](https://img.shields.io/badge/AGENTS-5%2B-00ffff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/AGENTS-5+-00ffff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/AUTOMATION-60%25-ff00ff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/LATENCY-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/RESPONSE-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
 
-> Multi-step agentic AI pipeline for generating articles, compliance audits, social posts, AI images, and parallel translations — from a single modular interface.
+> Multi-step agentic pipeline generating articles, compliance audits, social posts, AI images, and multilingual translations from a single modular interface.
 
-**⚡ Key Metrics:**
 - 📉 **60%** reduction in manual content handling
-- ⚡ **<200ms** FastAPI response time
+- ⚡ **<200ms** FastAPI average response time
 - 🧠 **5+** specialized orchestrated agents
-- 🌍 Parallel multilingual output via C++ microservice
+- 🌍 Parallel multilingual C++ microservice
+- 🖼️ Stability AI + Bytez image generation
+- 🌐 Tavily + NewsAPI deep web research
 
-**🔧 Stack:** `LangGraph` `LangChain` `Groq LLM` `FastAPI` `Stability AI` `Bytez` `Tavily` `NewsAPI` `Python` `C++`
-
-**🧩 Agents:** Write · Review · Compliance Audit · Translate · Image Gen
+`Python` `LangGraph` `LangChain` `FastAPI` `Groq LLM` `Stability AI` `Bytez` `Tavily` `C++`
 
 [🔗 GitHub](https://github.com/Harshit-ops-code/ET-multiple-agent)
 
@@ -115,24 +99,22 @@
 
 ---
 
-## ◈ FULLSTACK_PROJECTS.exe
+## ◈ Full-Stack Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
 ### 📦 STOCKMASTER
-**Inventory Management System**
+**Role-Based Inventory System**
 
 ![](https://img.shields.io/badge/AUTH-JWT-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/ROLES-Manager%2FStaff-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/DB-MySQL-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Role-based inventory platform with real-time KPI dashboard, audit trail, and stock operations.
-
-- 🔐 JWT authentication · Manager/Staff roles
+- 🔐 JWT auth · Manager/Staff roles
 - 📊 Real-time KPI dashboard
-- 🔄 IN / OUT / TRANSFER / ADJUST ops
-- 🗃️ Full audit trail with MySQL
+- 🔄 IN / OUT / TRANSFER / ADJUST
+- 🗃️ Full audit trail
 
 `React` `Node.js` `Express` `MySQL` `JWT` `TailwindCSS` `Vite`
 
@@ -142,15 +124,13 @@
 <td width="33%" valign="top">
 
 ### 💰 EXPENSE SYSTEM
-**Intelligent Expense Tracker**
+**Smart Expense Tracker**
 
 ![](https://img.shields.io/badge/REDUCTION-40%25-00ffff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/BACKEND-FastAPI-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Full-stack expense tracker with smart auto-categorization and real-time reporting.
-
-- 📉 **40%** reduction in manual logging
-- 📊 Real-time dashboard · 5+ categories
+- 📉 **40%** less manual logging
+- 📊 Real-time dashboard
 - 🗄️ SQL persistent storage
 - 🔗 RESTful CRUD APIs
 
@@ -165,13 +145,11 @@
 **React + Vite Web App**
 
 ![](https://img.shields.io/badge/DEPLOYED-Vercel-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/STACK-React%2BVite-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/STACK-React+Vite-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Modern React application deployed live on Vercel.
-
-- ⚡ React 18 + Vite setup
-- 🌐 Live deployed on Vercel
-- 🎨 Modern component-based UI
+- ⚡ React 18 + Vite
+- 🌐 Live on Vercel
+- 🎨 Modern component UI
 
 `React` `Vite` `JavaScript` `CSS`
 
@@ -183,11 +161,11 @@
 
 ---
 
-## ◈ TECH_STACK.json
+## ◈ Tech Stack
 
 <div align="center">
 
-**`// AI · ML · GenAI`**
+**`AI · ML · GenAI`**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-ff00ff?style=for-the-badge&logoColor=white)
@@ -195,7 +173,7 @@
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**`// Languages`**
+**`Languages`**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -203,7 +181,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**`// Backend · Web`**
+**`Backend · Web`**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -212,19 +190,19 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**`// Data · Databases · Tools`**
+**`Databases · Tools`**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## ◈ GITHUB_STATS.log
+## ◈ GitHub Stats
 
 <div align="center">
 
@@ -237,7 +215,22 @@
 
 ---
 
-## ◈ CONNECT.network
+## ◈ Achievements
+
+<div align="center">
+
+| 🚀 | ET Gen AI Hackathon | Top **6,000 of 54,000+** teams · Phase 2 Qualifier |
+|---|---|---|
+| 💻 | LeetCode | **177 problems** solved · 50 Days Badge 2026 |
+| ⭐ | CodeChef | **1353 rating** · 1★ · 6 Rated Contests |
+| 🥋 | Taekwondo | **National-level** player |
+| 🎓 | Tecknow Society | Organized **5+ events** · **200+** attendees |
+
+</div>
+
+---
+
+## ◈ Connect
 
 <div align="center">
 
@@ -246,7 +239,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkk5830@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Randomguy5830/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/adroit_seas_84)
-[![TruthShield](https://img.shields.io/badge/TruthShield-LIVE-00ffff?style=for-the-badge&logo=vercel&logoColor=black)](https://truthshield-nu.vercel.app)
+[![TruthShield Live](https://img.shields.io/badge/🛡️_TruthShield-LIVE-00ffff?style=for-the-badge&labelColor=0d0d1a)](https://truthshield-nu.vercel.app)
 
 </div>
 
@@ -255,13 +248,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  CURRENT_MISSION.exe                                         ║
-║  ──────────────────────────────────────────────────────────  ║
-║  🧠  Agentic AI  ──▶  RAG  ──▶  Vector DB  ──▶  System Design║
-║  🎯  Target: AI/ML Backend Internship · 2026                 ║
-║  📡  Status: BUILDING IN PUBLIC · OPEN TO COLLABORATE        ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║  🧠  Agentic AI  ──▶  RAG  ──▶  Vector DB  ──▶  Scale  ║
+║  🎯  Open to AI/ML internships · 2026                   ║
+║  📡  Always building · Always shipping                  ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:ff00ff,100:00ffff&height=120&section=footer&reversal=true" />
