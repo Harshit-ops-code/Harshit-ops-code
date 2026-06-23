@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=160&section=header&fontSize=1&animation=fadeIn"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.png" width="180"/>
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg-removebg-preview.png" width="180"/>
 
 <h1>Harshit Kumar</h1>
 
