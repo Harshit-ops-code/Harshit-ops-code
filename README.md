@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20·%20GenAI%20·%20Forensic%20AI%20·%20Full-Stack&descAlignY=58&descSize=14"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg" width="150"/>
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg.jpeg" width="150"/>
 
 <br/><br/>
 
