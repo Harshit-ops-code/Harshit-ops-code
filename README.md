@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:00ffff,70:ff00ff,100:0d0d1a&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg" width="160" style="border-radius: 16px; margin: 16px 0;" />
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg.jpeg" width="160" style="border-radius: 16px; margin: 16px 0;" />
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=HARSHIT+KUMAR" alt="Harshit Kumar" />
