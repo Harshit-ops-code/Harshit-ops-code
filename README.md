@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=160&section=header&fontSize=1&animation=fadeIn"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg-removebg-preview.png" width="180"/>
 
 <h1>Harshit Kumar</h1>
 
@@ -211,10 +210,26 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 
 <div align="center">
 
+![Snake animation](https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00ffff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&background=0d0d1a"/>
+
+</div>
+
+---
+
+## ◈ GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-ops-code&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
