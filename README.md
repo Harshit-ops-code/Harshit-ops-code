@@ -225,11 +225,19 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 
 ---
 
-## ◈ GitHub Trophies
+## ◈ Badges & Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit-ops-code&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://img.shields.io/badge/🚀_ET_Gen_AI_Hackathon-Top_6K_of_54K-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/💻_LeetCode-177_Solved-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/⭐_CodeChef-1353_Rating-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🥋_Taekwondo-National_Level-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+
+![](https://img.shields.io/badge/🤖_Projects-5_Built-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🌐_Live_Deploys-3_Apps-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🛡️_TruthShield-92%25_Accuracy-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🧠_LangGraph-6_Node_Pipeline-ff00ff?style=for-the-badge&labelColor=0d0d1a)
 
 </div>
 
