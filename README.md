@@ -29,7 +29,7 @@ My flagship project **Lexis AI** is a live 6-node LangGraph content intelligence
 
 When I'm not building, I'm grinding DSA on LeetCode, leading technical events at **Tecknow Society**, or training Taekwondo at the national level.
 
-> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I went from C++ to building production AI pipelines as a first-year student.*
+> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I went from C++ to building production AI pipelines as a student.*
 
 ---
 
