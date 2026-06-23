@@ -230,8 +230,6 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 <div align="center">
 
 ![](https://img.shields.io/badge/🚀_ET_Gen_AI_Hackathon-Top_6K_of_54K-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/💻_LeetCode-177_Solved-ff00ff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/⭐_CodeChef-1353_Rating-00ffff?style=for-the-badge&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/🥋_Taekwondo-National_Level-ff00ff?style=for-the-badge&labelColor=0d0d1a)
 
 ![](https://img.shields.io/badge/🤖_Projects-5_Built-00ffff?style=for-the-badge&labelColor=0d0d1a)
@@ -250,8 +248,8 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 | | | |
 |---|---|---|
 | 🚀 | ET Gen AI Hackathon | Top **6,000 of 54,000+** teams · Phase 2 Qualifier |
-| 💻 | LeetCode | **177 problems** solved · 50 Days Badge 2026 |
-| ⭐ | CodeChef | **1353 rating** · 1★ · 6 Rated Contests |
+| 💻 | LeetCode | **200+ problems** solved · 50 Days Badge 2026 |
+| ⭐ | CodeChef | **1400 rating** · 2★ · 8 Rated Contests |
 | 🥋 | Taekwondo | **National-level** player |
 | 🎓 | Tecknow Society | Organized **5+ events** · **200+** attendees |
 
