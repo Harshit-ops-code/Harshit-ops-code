@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,30:00ffff,70:ff00ff,100:0d0d1a&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20·%20GenAI%20·%20Forensic%20AI%20·%20Full-Stack&descAlignY=58&descSize=14"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg.jpeg" width="160" style="border-radius: 16px; margin: 16px 0;" />
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg" width="150"/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=HARSHIT+KUMAR" alt="Harshit Kumar" />
-</h1>
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=900&color=FF00FF&center=true&vCenter=true&width=700&lines=⟦+Agentic+AI+·+GenAI+·+Forensic+AI+⟧;⟦+LangGraph+·+LangChain+·+Groq+LLM+⟧;⟦+Deepfake+Detection+·+Multi-Agent+Systems+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+Student+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=⟦+Agentic+AI+·+GenAI+·+Forensic+AI+⟧;⟦+LangGraph+·+LangChain+·+Groq+LLM+⟧;⟦+Deepfake+Detection+·+Multi-Agent+Systems+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+Student+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/🎯_GOAL-AI%2FML_Internship_2026-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/📍_LOCATION-IIIT_Kota,_Rajasthan-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/📍-IIIT_Kota,_Rajasthan-ff00ff?style=for-the-badge&labelColor=0d0d1a)
 ![](https://komarev.com/ghpvc/?username=Harshit-ops-code&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d0d1a)
 
 </div>
@@ -22,15 +20,15 @@
 
 ## ◈ About Me
 
-Hey! I'm **Harshit Kumar**, a Computer Science student at **IIIT Kota** who builds AI systems that actually work in the real world — not just in notebooks.
+Hey! I'm **Harshit Kumar**, a Computer Science student at **IIIT Kota** who builds AI systems that work in the real world — not just in notebooks.
 
-I started with competitive programming in C++, got hooked on backend engineering, and now I'm deep into **Agentic AI and Generative AI** — building multi-agent pipelines, forensic AI platforms, and full-stack applications from scratch.
+I started with competitive programming in C++, moved into backend engineering, and now I'm deep into **Agentic AI and Generative AI** — building multi-agent pipelines, forensic AI platforms, and full-stack applications from scratch.
 
-My biggest project right now, **TruthShield**, detects deepfakes and AI-generated disinformation with ~92% accuracy across diagnostics. It's live, it's real, and it handles 10,000+ daily verifications.
+My flagship project **Lexis AI** is a live 6-node LangGraph content intelligence engine with RAG fact-checking, 5-layer compliance review, AI image generation, and a C++ localization microservice. My other project **TruthShield** detects deepfakes and AI-generated disinformation with ~92% accuracy — live, real, handling 10,000+ daily verifications.
 
-When I'm not building, I'm either grinding DSA on LeetCode, leading technical events at **Tecknow Society**, or training Taekwondo at the national level.
+When I'm not building, I'm grinding DSA on LeetCode, leading technical events at **Tecknow Society**, or training Taekwondo at the national level.
 
-> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I went from C++ to building AI pipelines as a first-year student.*
+> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I went from C++ to building production AI pipelines as a first-year student.*
 
 ---
 
@@ -38,6 +36,38 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 LEXIS AI
+**Content Intelligence Engine**
+
+</div>
+
+![](https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/PIPELINE-6_Node_LangGraph-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/RESPONSE-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/AUTOMATION-60%25-ff00ff?style=flat-square&labelColor=0d0d1a)
+
+> Autonomous multi-agent AI content team — write, fact-check, review, generate images, and publish from a single modular interface.
+
+**⚡ Pipeline:** `Write` → `Validate` → `RAG` → `Review` → `Images` → `Social`
+
+- 🧠 **6-node LangGraph** agentic state orchestration
+- 🔍 **RAG fact-checking** via Tavily + Chroma vector store
+- 🔒 **5-layer compliance** — brand voice, legal, tone, policy, accuracy
+- 🖼️ **Stability AI** images in 3 formats (Blog · Instagram · LinkedIn)
+- 📱 Pre-formatted LinkedIn & Instagram social post previews
+- 👤 **Human-in-the-loop** approval gate with refinement loops
+- 🌍 **C++ localization engine** — 6 languages in parallel (ES · DE · JP · FR · HI · AR)
+- ⚡ **<200ms** FastAPI response time
+
+`Python` `LangGraph` `LangChain` `Groq Llama-3.3-70B` `Stability AI` `Tavily` `Chroma` `FastAPI` `C++`
+
+[🔗 GitHub](https://github.com/Harshit-ops-code/ET-multiple-agent) · [🌐 Live Demo](https://lex-is-ai.vercel.app/app/)
+
+</td>
 <td width="50%" valign="top">
 
 <div align="center">
@@ -59,39 +89,13 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 - 👁️ **~89%** on visual deepfake forensics
 - ⚡ **<120ms** text · **<1.8s** visual queries
 - 📈 Supports **10,000+** daily verifications
-- 🧩 Chrome Extension (Manifest V3) for browser audits
+- 🧩 **Chrome Extension** (Manifest V3) for real-time browser audits
 - 📱 SMS/WhatsApp social engineering detection
+- 🔗 Cross-modal disinformation analysis
 
 `Python` `FastAPI` `Groq LLM` `Gemini API` `Hugging Face` `Cerebras` `TypeScript` `Node.js`
 
 [🔗 GitHub](https://github.com/Harshit-ops-code/Truthshield) · [🌐 Live Demo](https://truthshield-nu.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🤖 ET MULTIPLE AGENT
-**Generative AI Content Pipeline**
-
-</div>
-
-![](https://img.shields.io/badge/AGENTS-5+-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/AUTOMATION-60%25-ff00ff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/RESPONSE-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
-
-> Multi-step agentic pipeline generating articles, compliance audits, social posts, AI images, and multilingual translations from a single modular interface.
-
-- 📉 **60%** reduction in manual content handling
-- ⚡ **<200ms** FastAPI average response time
-- 🧠 **5+** specialized orchestrated agents
-- 🌍 Parallel multilingual C++ microservice
-- 🖼️ Stability AI + Bytez image generation
-- 🌐 Tavily + NewsAPI deep web research
-
-`Python` `LangGraph` `LangChain` `FastAPI` `Groq LLM` `Stability AI` `Bytez` `Tavily` `C++`
-
-[🔗 GitHub](https://github.com/Harshit-ops-code/ET-multiple-agent)
 
 </td>
 </tr>
@@ -113,8 +117,8 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 
 - 🔐 JWT auth · Manager/Staff roles
 - 📊 Real-time KPI dashboard
-- 🔄 IN / OUT / TRANSFER / ADJUST
-- 🗃️ Full audit trail
+- 🔄 IN / OUT / TRANSFER / ADJUST ops
+- 🗃️ Full audit trail with MySQL
 
 `React` `Node.js` `Express` `MySQL` `JWT` `TailwindCSS` `Vite`
 
@@ -130,7 +134,7 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 ![](https://img.shields.io/badge/BACKEND-FastAPI-ff00ff?style=flat-square&labelColor=0d0d1a)
 
 - 📉 **40%** less manual logging
-- 📊 Real-time dashboard
+- 📊 Real-time dashboard · 5+ categories
 - 🗄️ SQL persistent storage
 - 🔗 RESTful CRUD APIs
 
@@ -148,8 +152,8 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 ![](https://img.shields.io/badge/STACK-React+Vite-ff00ff?style=flat-square&labelColor=0d0d1a)
 
 - ⚡ React 18 + Vite
-- 🌐 Live on Vercel
-- 🎨 Modern component UI
+- 🌐 Live deployed on Vercel
+- 🎨 Modern component-based UI
 
 `React` `Vite` `JavaScript` `CSS`
 
@@ -172,6 +176,7 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-00ffff?style=for-the-badge&logoColor=black)
 
 **`Languages`**
 
@@ -209,7 +214,7 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 <img src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00ffff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&background=0d0d1a" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&background=0d0d1a"/>
 
 </div>
 
@@ -219,8 +224,9 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 
 <div align="center">
 
-| 🚀 | ET Gen AI Hackathon | Top **6,000 of 54,000+** teams · Phase 2 Qualifier |
+| | | |
 |---|---|---|
+| 🚀 | ET Gen AI Hackathon | Top **6,000 of 54,000+** teams · Phase 2 Qualifier |
 | 💻 | LeetCode | **177 problems** solved · 50 Days Badge 2026 |
 | ⭐ | CodeChef | **1353 rating** · 1★ · 6 Rated Contests |
 | 🥋 | Taekwondo | **National-level** player |
@@ -239,7 +245,8 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkk5830@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Randomguy5830/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/adroit_seas_84)
-[![TruthShield Live](https://img.shields.io/badge/🛡️_TruthShield-LIVE-00ffff?style=for-the-badge&labelColor=0d0d1a)](https://truthshield-nu.vercel.app)
+[![Lexis AI](https://img.shields.io/badge/🤖_Lexis_AI-LIVE-00ffff?style=for-the-badge&labelColor=0d0d1a)](https://lex-is-ai.vercel.app/app/)
+[![TruthShield](https://img.shields.io/badge/🛡️_TruthShield-LIVE-ff00ff?style=for-the-badge&labelColor=0d0d1a)](https://truthshield-nu.vercel.app)
 
 </div>
 
@@ -255,6 +262,6 @@ When I'm not building, I'm either grinding DSA on LeetCode, leading technical ev
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d1a,50:ff00ff,100:00ffff&height=120&section=footer&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,60:00ffff,100:0d0d1a&height=120&section=footer"/>
 
 </div>
