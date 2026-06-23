@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=200&section=header&text=Harshit%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20·%20GenAI%20·%20Forensic%20AI%20·%20Full-Stack&descAlignY=58&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=160&section=header&fontSize=1&animation=fadeIn"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.jpeg.jpeg" width="150"/>
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/avatar.png" width="180"/>
 
-<br/><br/>
+<h1>Harshit Kumar</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=⟦+Agentic+AI+·+GenAI+·+Forensic+AI+⟧;⟦+LangGraph+·+LangChain+·+Groq+LLM+⟧;⟦+Deepfake+Detection+·+Multi-Agent+Systems+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+Student+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
+<p><b>Agentic AI &nbsp;·&nbsp; GenAI &nbsp;·&nbsp; Forensic AI &nbsp;·&nbsp; Full-Stack</b></p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=⟦+Agentic+AI+·+GenAI+·+Forensic+AI+⟧;⟦+LangGraph+·+LangChain+·+Groq+LLM+·+RAG+⟧;⟦+Deepfake+Detection+·+Multi-Agent+Systems+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+@+IIIT+Kota+2024–2028+⟧)](https://git.io/typing-svg)
 
 <br/>
 
@@ -56,14 +58,13 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 
 - 🧠 **6-node LangGraph** agentic state orchestration
 - 🔍 **RAG fact-checking** via Tavily + Chroma vector store
-- 🔒 **5-layer compliance** — brand voice, legal, tone, policy, accuracy
-- 🖼️ **Stability AI** images in 3 formats (Blog · Instagram · LinkedIn)
-- 📱 Pre-formatted LinkedIn & Instagram social post previews
+- 🔒 **5-layer compliance** — brand, legal, tone, policy, accuracy
+- 🖼️ **Stability AI** images — Blog · Instagram · LinkedIn formats
 - 👤 **Human-in-the-loop** approval gate with refinement loops
-- 🌍 **C++ localization engine** — 6 languages in parallel (ES · DE · JP · FR · HI · AR)
+- 🌍 **C++ localization engine** — ES · DE · JP · FR · HI · AR
 - ⚡ **<200ms** FastAPI response time
 
-`Python` `LangGraph` `LangChain` `Groq Llama-3.3-70B` `Stability AI` `Tavily` `Chroma` `FastAPI` `C++`
+`Python` `LangGraph` `LangChain` `Groq Llama-3.3-70B` `Stability AI` `Tavily` `ChromaDB` `FastAPI` `C++`
 
 [🔗 GitHub](https://github.com/Harshit-ops-code/ET-multiple-agent) · [🌐 Live Demo](https://lex-is-ai.vercel.app/app/)
 
@@ -91,7 +92,6 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 - 📈 Supports **10,000+** daily verifications
 - 🧩 **Chrome Extension** (Manifest V3) for real-time browser audits
 - 📱 SMS/WhatsApp social engineering detection
-- 🔗 Cross-modal disinformation analysis
 
 `Python` `FastAPI` `Groq LLM` `Gemini API` `Hugging Face` `Cerebras` `TypeScript` `Node.js`
 
@@ -117,8 +117,8 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 
 - 🔐 JWT auth · Manager/Staff roles
 - 📊 Real-time KPI dashboard
-- 🔄 IN / OUT / TRANSFER / ADJUST ops
-- 🗃️ Full audit trail with MySQL
+- 🔄 IN / OUT / TRANSFER / ADJUST
+- 🗃️ Full audit trail
 
 `React` `Node.js` `Express` `MySQL` `JWT` `TailwindCSS` `Vite`
 
@@ -152,8 +152,8 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 ![](https://img.shields.io/badge/STACK-React+Vite-ff00ff?style=flat-square&labelColor=0d0d1a)
 
 - ⚡ React 18 + Vite
-- 🌐 Live deployed on Vercel
-- 🎨 Modern component-based UI
+- 🌐 Live on Vercel
+- 🎨 Modern component UI
 
 `React` `Vite` `JavaScript` `CSS`
 
@@ -176,7 +176,7 @@ When I'm not building, I'm grinding DSA on LeetCode, leading technical events at
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Chroma](https://img.shields.io/badge/ChromaDB-00ffff?style=for-the-badge&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00ffff?style=for-the-badge&logoColor=black)
 
 **`Languages`**
 
