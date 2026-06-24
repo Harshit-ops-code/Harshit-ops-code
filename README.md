@@ -13,25 +13,40 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ About Me
 
-Hey! I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota** building AI systems that actually work in production — not just in notebooks.
+I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I enjoy building things — started with competitive programming, moved into backend dev, and lately I've been spending most of my time on Generative AI and Agentic AI systems.
 
-I went from competitive programming in C++ → backend engineering → and now I'm deep into **Agentic AI and Generative AI**. I build multi-agent pipelines, forensic AI platforms, and full-stack apps from scratch.
+I'm still learning a lot — currently revising Python properly, working through DSA, and exploring RAG pipelines and vector databases. I like understanding how things work under the hood, not just making them run.
 
-- 🛡️ **TruthShield** — live forensic AI detecting deepfakes & disinformation at ~92% accuracy
-- 🤖 **Lexis AI** — live 6-node LangGraph content pipeline with RAG, compliance review & image generation
-- 📦 **StockMaster** — JWT role-based inventory system with real-time KPI dashboard
+Outside tech, I train Taekwondo at national level and help organize technical events at Tecknow Society. Looking for an **AI/ML or backend internship in 2026** where I can contribute and keep growing.
 
-Currently learning RAG pipelines, vector databases, and system design. Looking for an **AI/ML Backend internship in 2026**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
-> 💬 *Ask me about LangGraph, multi-agent systems, FastAPI, or how I shipped production AI as a 2nd year student.*
+## ◈ Currently Building
 
----
+<div align="center">
+
+![](https://img.shields.io/badge/📚_Revising-Python_Fundamentals-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🌲_DSA-Trees_%26_Graphs-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🔍_Exploring-RAG_%26_Vector_DB-00ffff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🏗️_Next_Project-AI_RAG_App-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ AI / GenAI Projects
+
+<div align="center">
+
+[![Lexis AI](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-ops-code&repo=ET-multiple-agent&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a)](https://github.com/Harshit-ops-code/ET-multiple-agent)
+[![TruthShield](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-ops-code&repo=Truthshield&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a)](https://github.com/Harshit-ops-code/Truthshield)
+
+</div>
+
 
 <table>
 <tr>
@@ -49,16 +64,16 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 ![](https://img.shields.io/badge/LATENCY-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/AUTOMATION-60%25-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Autonomous multi-agent AI content team that writes, fact-checks, reviews, generates images, and publishes — from a single interface.
+> Autonomous multi-agent AI content team — write, fact-check, review, generate images, and publish from a single interface.
 
 **Pipeline:** `Write` → `Validate` → `RAG` → `Review` → `Images` → `Social`
 
 - 🧠 **6-node LangGraph** agentic orchestration
 - 🔍 **RAG** via Tavily + ChromaDB vector store
 - 🔒 **5-layer compliance** — brand · legal · tone · policy · accuracy
-- 🖼️ **Stability AI** — Blog · Instagram · LinkedIn image formats
+- 🖼️ **Stability AI** — Blog · Instagram · LinkedIn formats
 - 👤 **Human-in-the-loop** approval + refinement loops
-- 🌍 **C++ localization** — ES · DE · JP · FR · HI · AR in parallel
+- 🌍 **C++ localization** — ES · DE · JP · FR · HI · AR
 
 `Python` `LangGraph` `LangChain` `Groq Llama-3.3-70B` `ChromaDB` `Stability AI` `Tavily` `FastAPI` `C++`
 
@@ -79,15 +94,14 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 ![](https://img.shields.io/badge/LATENCY-<120ms-00ffff?style=flat-square&labelColor=0d0d1a)
 ![](https://img.shields.io/badge/SCALE-10K+_daily-ff00ff?style=flat-square&labelColor=0d0d1a)
 
-> Real-time multi-API platform detecting deepfakes, AI-generated text & phishing across text, image, and social channels.
+> Multi-API platform detecting deepfakes, AI-generated text and phishing across text, image, and social channels.
 
 - 🎯 **~92%** overall detection accuracy
 - 🔍 **~94%** text scam · **~89%** visual deepfake
 - ⚡ **<120ms** text · **<1.8s** visual queries
 - 📈 **10,000+** daily verifications supported
-- 🧩 **Chrome Extension** (Manifest V3) — real-time browser audits
+- 🧩 **Chrome Extension** (Manifest V3) browser audits
 - 📱 SMS/WhatsApp social engineering detection
-- 🔗 Cross-modal disinformation analysis
 
 `Python` `FastAPI` `Groq LLM` `Gemini API` `Hugging Face` `Cerebras` `TypeScript` `Node.js`
 
@@ -97,7 +111,7 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ Full-Stack Projects
 
@@ -159,7 +173,23 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+## ◈ Skill Levels
+
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| Python | `████████░░` 80% |
+| FastAPI / Backend | `████████░░` 80% |
+| LangChain / LangGraph | `███████░░░` 70% |
+| C++ / DSA | `██████░░░░` 60% |
+| React / Frontend | `██████░░░░` 60% |
+| RAG / Vector DB | `████░░░░░░` 40% — *learning* |
+| System Design | `███░░░░░░░` 30% — *learning* |
+
+</div>
 
 ## ◈ Tech Stack
 
@@ -201,7 +231,7 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ GitHub Stats
 
@@ -209,7 +239,15 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 
 ![Snake animation](https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake-dark.svg)
 
-<br/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=tokyo-night&bg_color=0d0d1a&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00ffff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
@@ -218,7 +256,7 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ Badges & Achievements
 
@@ -236,7 +274,7 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ Connect
 
@@ -252,7 +290,7 @@ Currently learning RAG pipelines, vector databases, and system design. Looking f
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 <div align="center">
 
