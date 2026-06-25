@@ -13,39 +13,26 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 ## ◈ About Me
 
-I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I enjoy building things — started with competitive programming, moved into backend dev, and lately I've been spending most of my time on Generative AI and Agentic AI systems.
+I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I like building things that actually work — not just demos. My interest has moved from competitive programming and backend dev into Generative AI and Agentic AI, and that's where most of my focus is right now.
 
-I'm still learning a lot — currently revising Python properly, working through DSA, and exploring RAG pipelines and vector databases. I like understanding how things work under the hood, not just making them run.
+Currently working through DSA, deepening my Python fundamentals, and exploring RAG pipelines and vector databases. I prefer understanding things properly over rushing through them.
 
-Outside tech, I train Taekwondo at national level and help organize technical events at Tecknow Society. Looking for an **AI/ML or backend internship in 2026** where I can contribute and keep growing.
+Outside of coding, I train Taekwondo at national level and help run technical events at Tecknow Society. Open to **AI/ML or backend internships in 2026**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
-## ◈ Currently Building
+---
 
-<div align="center">
 
-![](https://img.shields.io/badge/📚_Revising-Python_Fundamentals-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🌲_DSA-Trees_%26_Graphs-ff00ff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🔍_Exploring-RAG_%26_Vector_DB-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🏗️_Next_Project-AI_RAG_App-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+---
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
 ## ◈ AI / GenAI Projects
-
-<div align="center">
-
-[![Lexis AI](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-ops-code&repo=ET-multiple-agent&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a)](https://github.com/Harshit-ops-code/ET-multiple-agent)
-[![TruthShield](https://github-readme-stats.vercel.app/api/pin/?username=Harshit-ops-code&repo=Truthshield&theme=tokyonight&hide_border=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a)](https://github.com/Harshit-ops-code/Truthshield)
-
-</div>
 
 
 <table>
@@ -111,7 +98,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 ## ◈ Full-Stack Projects
 
@@ -173,23 +162,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
 
-## ◈ Skill Levels
+---
 
-<div align="center">
-
-| Skill | Level |
-|---|---|
-| Python | `████████░░` 80% |
-| FastAPI / Backend | `████████░░` 80% |
-| LangChain / LangGraph | `███████░░░` 70% |
-| C++ / DSA | `██████░░░░` 60% |
-| React / Frontend | `██████░░░░` 60% |
-| RAG / Vector DB | `████░░░░░░` 40% — *learning* |
-| System Design | `███░░░░░░░` 30% — *learning* |
-
-</div>
 
 ## ◈ Tech Stack
 
@@ -231,7 +206,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 ## ◈ GitHub Stats
 
@@ -256,7 +233,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 ## ◈ Badges & Achievements
 
@@ -274,7 +253,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 ## ◈ Connect
 
@@ -290,7 +271,9 @@ Outside tech, I train Taekwondo at national level and help organize technical ev
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=header" width="100%"/>
+
+---
+
 
 <div align="center">
 
