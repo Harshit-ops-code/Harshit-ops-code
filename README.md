@@ -34,13 +34,13 @@
 
 ### 👋 About Me
 
-I'm a **3rd year CSE student at IIIT Kota** building real AI systems — not just demos.
+## Hi, I'm Harshit 🚀
 
-Started with C++ and competitive programming, moved into backend engineering, now fully focused on **Generative AI and Agentic AI**. I like understanding things properly before moving on.
+I'm a CSE student at IIIT Kota focused on building production-grade AI systems, moving past basic API wrappers and proof-of-concepts. My background started with deep-diving into C++ and competitive programming, evolved into core backend engineering, and is now fully centered on Generative AI and Agentic architectures. I optimize for mechanical sympathy—understanding the underlying data structures, memory trade-offs, and retrieval mechanics before shipping.
 
-- 🔭 &nbsp;Working on RAG pipelines & vector DBs
-- 💼 &nbsp;Open to **AI/ML internships · 2026**
-- 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
+* 🔭 **Current Focus:** Optimizing RAG pipelines, vector database architectures (HNSW/IVF-PQ indexing), and stateful multi-agent orchestrations.
+* 🎯 **Leadership:** Event Lead at TechKnow Society, IIIT Kota—organizing technical summits and national hackathons.
+* 💼 **Looking For:** AI/ML and Backend Engineering Internships (2026).
 
 <br clear="right"/>
 
