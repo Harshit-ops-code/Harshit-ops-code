@@ -39,9 +39,7 @@ I'm a **3rd year CSE student at IIIT Kota** building real AI systems — not jus
 Started with C++ and competitive programming, moved into backend engineering, now fully focused on **Generative AI and Agentic AI**. I like understanding things properly before moving on.
 
 - 🔭 &nbsp;Working on RAG pipelines & vector DBs
-- 🌱 &nbsp;Revising Python · DSA (Trees → Graphs)
 - 💼 &nbsp;Open to **AI/ML internships · 2026**
-- 🥋 &nbsp;National-level Taekwondo player
 - 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
 
 <br clear="right"/>
