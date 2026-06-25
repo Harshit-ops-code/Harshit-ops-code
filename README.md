@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:00ffff,100:ff00ff&height=200&section=header&text=Harshit%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20·%20Forensic%20AI%20·%20GenAI%20·%20Full-Stack&descAlignY=58&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a1a,40:7b2fff,100:ff6b35&height=200&section=header&text=Harshit%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20·%20Forensic%20AI%20·%20GenAI%20·%20Full-Stack&descAlignY=58&descSize=15"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=00FFFF&center=true&vCenter=true&width=700&lines=⟦+Building+Agentic+AI+Systems+⟧;⟦+LangGraph+·+LangChain+·+RAG+·+ChromaDB+⟧;⟦+Deepfake+Detection+·+Forensic+AI+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+@+IIIT+Kota+·+3rd+Year+⟧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=⟦+Building+Agentic+AI+Systems+⟧;⟦+LangGraph+·+LangChain+·+RAG+·+ChromaDB+⟧;⟦+Deepfake+Detection+·+Forensic+AI+⟧;⟦+FastAPI+·+React+·+Node.js+·+Full-Stack+⟧;⟦+CSE+@+IIIT+Kota+·+3rd+Year+⟧)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/🎯-AI%2FML_Internship_2026-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/📍-IIIT_Kota,_Rajasthan-ff00ff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🔥-Open_To_Collaborate-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://komarev.com/ghpvc/?username=Harshit-ops-code&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🎯-AI%2FML_Internship_2026-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/📍-IIIT_Kota,_Rajasthan-7b2fff?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/🔥-Open_To_Collaborate-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://komarev.com/ghpvc/?username=Harshit-ops-code&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge&labelColor=0d0a1a)
 
 </div>
 
@@ -46,10 +46,10 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 
 </div>
 
-![](https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/PIPELINE-6_Node_LangGraph-ff00ff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/LATENCY-<200ms-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/AUTOMATION-60%25-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/STATUS-LIVE-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/PIPELINE-6_Node_LangGraph-7b2fff?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/LATENCY-<200ms-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/AUTOMATION-60%25-7b2fff?style=flat-square&labelColor=0d0a1a)
 
 > Autonomous multi-agent AI content team — write, fact-check, review, generate images, and publish from a single interface.
 
@@ -76,10 +76,10 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 
 </div>
 
-![](https://img.shields.io/badge/STATUS-LIVE-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/ACCURACY-~92%25-ff00ff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/LATENCY-<120ms-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/SCALE-10K+_daily-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/STATUS-LIVE-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/ACCURACY-~92%25-7b2fff?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/LATENCY-<120ms-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/SCALE-10K+_daily-7b2fff?style=flat-square&labelColor=0d0a1a)
 
 > Multi-API platform detecting deepfakes, AI-generated text and phishing across text, image, and social channels.
 
@@ -111,8 +111,8 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 ### 📦 STOCKMASTER
 **Role-Based Inventory System**
 
-![](https://img.shields.io/badge/AUTH-JWT-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/DB-MySQL-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/AUTH-JWT-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/DB-MySQL-7b2fff?style=flat-square&labelColor=0d0a1a)
 
 - 🔐 JWT auth · Manager/Staff roles
 - 📊 Real-time KPI dashboard
@@ -129,8 +129,8 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 ### 💰 EXPENSE SYSTEM
 **Smart Expense Tracker**
 
-![](https://img.shields.io/badge/REDUCTION-40%25-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/BACKEND-FastAPI-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/REDUCTION-40%25-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/BACKEND-FastAPI-7b2fff?style=flat-square&labelColor=0d0a1a)
 
 - 📉 **40%** less manual logging
 - 📊 Real-time dashboard · 5+ categories
@@ -147,8 +147,8 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 ### ⚡ GOVOLT
 **React + Vite Web App**
 
-![](https://img.shields.io/badge/DEPLOYED-Vercel-00ffff?style=flat-square&labelColor=0d0d1a)
-![](https://img.shields.io/badge/STACK-React+Vite-ff00ff?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/DEPLOYED-Vercel-ff6b35?style=flat-square&labelColor=0d0a1a)
+![](https://img.shields.io/badge/STACK-React+Vite-7b2fff?style=flat-square&labelColor=0d0a1a)
 
 - ⚡ React 18 + Vite
 - 🌐 Live on Vercel
@@ -173,11 +173,11 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 **`AI · ML · GenAI`**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-ff00ff?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7b2fff?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00ffff?style=for-the-badge&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-ff6b35?style=for-the-badge&logoColor=black)
 
 **`Languages`**
 
@@ -220,16 +220,16 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=tokyo-night&bg_color=0d0d1a&color=00ffff&line=ff00ff&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=radical&bg_color=0d0a1a&color=ffd700&line=ff6b35&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=00ffff&text_color=ffffff&bg_color=0d0d1a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=radical&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&background=0d0d1a"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=radical&hide_border=true&ring=ffd700&fire=ff6b35&currStreakLabel=ffd700"/>
 
 </div>
 
@@ -241,15 +241,15 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 
 <div align="center">
 
-![](https://img.shields.io/badge/🚀_ET_Gen_AI_Hackathon-Top_6K_of_54K+-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/💻_LeetCode-200%2B_Solved-ff00ff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/⭐_CodeChef-1400_Rating-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🥋_Taekwondo-National_Level-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🚀_ET_Gen_AI_Hackathon-Top_6K_of_54K+-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/💻_LeetCode-200%2B_Solved-7b2fff?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/⭐_CodeChef-1400_Rating-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/🥋_Taekwondo-National_Level-7b2fff?style=for-the-badge&labelColor=0d0a1a)
 
-![](https://img.shields.io/badge/🤖_AI_Projects-5_Built-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🌐_Live_Deploys-3_Apps-ff00ff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🛡️_TruthShield-92%25_Accuracy-00ffff?style=for-the-badge&labelColor=0d0d1a)
-![](https://img.shields.io/badge/🧠_LangGraph-6_Node_Pipeline-ff00ff?style=for-the-badge&labelColor=0d0d1a)
+![](https://img.shields.io/badge/🤖_AI_Projects-5_Built-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/🌐_Live_Deploys-3_Apps-7b2fff?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/🛡️_TruthShield-92%25_Accuracy-ff6b35?style=for-the-badge&labelColor=0d0a1a)
+![](https://img.shields.io/badge/🧠_LangGraph-6_Node_Pipeline-7b2fff?style=for-the-badge&labelColor=0d0a1a)
 
 </div>
 
@@ -266,8 +266,8 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkk5830@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Randomguy5830/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/adroit_seas_84)
-[![Lexis AI](https://img.shields.io/badge/🤖_Lexis_AI-LIVE-00ffff?style=for-the-badge&labelColor=0d0d1a)](https://lex-is-ai.vercel.app/app/)
-[![TruthShield](https://img.shields.io/badge/🛡️_TruthShield-LIVE-ff00ff?style=for-the-badge&labelColor=0d0d1a)](https://truthshield-nu.vercel.app)
+[![Lexis AI](https://img.shields.io/badge/🤖_Lexis_AI-LIVE-ff6b35?style=for-the-badge&labelColor=0d0a1a)](https://lex-is-ai.vercel.app/app/)
+[![TruthShield](https://img.shields.io/badge/🛡️_TruthShield-LIVE-7b2fff?style=for-the-badge&labelColor=0d0a1a)](https://truthshield-nu.vercel.app)
 
 </div>
 
@@ -285,6 +285,6 @@ Outside of coding, I train Taekwondo at national level and help run technical ev
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,60:00ffff,100:0d0d1a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,60:7b2fff,100:0d0a1a&height=120&section=footer"/>
 
 </div>
