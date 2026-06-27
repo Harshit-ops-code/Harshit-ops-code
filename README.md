@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=⚡%20AI%20Engineer%20·%20Agentic%20AI%20·%20GenAI%20·%20Full-Stack%20⚡&descSize=16&descAlignY=56"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20·%20Agentic%20AI%20·%20GenAI%20·%20Full-Stack&descSize=16&descAlignY=56"/>
 
 <a href="https://linkedin.com/in/harshit-kumar-64143a323">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -11,16 +11,19 @@
 <a href="https://leetcode.com/u/Randomguy5830/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
+<a href="https://www.codechef.com/users/adroit_seas_84">
+  <img src="https://img.shields.io/badge/-CodeChef-964B00?style=flat-square&logo=codechef&logoColor=white"/>
+</a>
 <a href="https://lex-is-ai.vercel.app/app/">
-  <img src="https://img.shields.io/badge/-Lexis%20AI%20🤖-8B5CF6?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Lexis%20AI-8B5CF6?style=flat-square&logoColor=white"/>
 </a>
 <a href="https://truthshield-nu.vercel.app">
-  <img src="https://img.shields.io/badge/-TruthShield%20🛡️-EF4444?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TruthShield-EF4444?style=flat-square&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agentic+AI+that+ships+to+prod+🚀;LangGraph+·+RAG+·+Forensic+AI+·+FastAPI;3rd+yr+CSE+@+IIIT+Kota+·+Open+to+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+that+actually+ships+🚀;LangGraph+·+RAG+·+ChromaDB+·+FastAPI;Forensic+AI+·+Deepfake+Detection+·+Multi-Agent;3rd+yr+CSE+%40+IIIT+Kota+·+Open+to+Internships+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,17 +33,19 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000"/>
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000"/>
 
 ### 👋 About Me
 
-## Hi, I'm Harshit 🚀
+I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I like building things that actually work — not just demos. Started with C++ and competitive programming, moved into backend dev, and now most of my time goes into Generative AI and Agentic AI systems.
 
-I'm a CSE student at IIIT Kota focused on building production-grade AI systems, moving past basic API wrappers and proof-of-concepts. My background started with deep-diving into C++ and competitive programming, evolved into core backend engineering, and is now fully centered on Generative AI and Agentic architectures. I optimize for mechanical sympathy—understanding the underlying data structures, memory trade-offs, and retrieval mechanics before shipping.
+I prefer understanding things properly before moving on — currently going deeper on DSA, Python fundamentals, and RAG pipelines.
 
-* 🔭 **Current Focus:** Optimizing RAG pipelines, vector database architectures (HNSW/IVF-PQ indexing), and stateful multi-agent orchestrations.
-* 🎯 **Leadership:** Event Lead at TechKnow Society, IIIT Kota—organizing technical summits and national hackathons.
-* 💼 **Looking For:** AI/ML and Backend Engineering Internships (2026).
+- 🔭 &nbsp;Building: Agentic AI systems · Forensic AI · RAG pipelines
+- 🌱 &nbsp;Learning: Vector DBs · System Design · Advanced ML
+- 💼 &nbsp;Open to **AI/ML internships · 2026**
+- 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
+- 🥋 &nbsp;National-level Taekwondo player
 
 <br clear="right"/>
 
@@ -56,12 +61,12 @@ I'm a CSE student at IIIT Kota focused on building production-grade AI systems, 
 
 **Autonomous AI Content Pipeline**
 
-6-node LangGraph system that writes, fact-checks via RAG (Tavily + ChromaDB), runs 5-layer compliance, generates Stability AI images, and outputs to 6 languages via a C++ microservice.
+6-node LangGraph system — writes, fact-checks via RAG (Tavily + ChromaDB), runs 5-layer compliance, generates Stability AI images, and outputs to 6 languages via a C++ microservice.
 
 ```
-Accuracy  ████████████████░░░░  60% automation
-Latency   ███████████████████░  <200ms response
-Scale     ████████████████████  6 languages
+Automation  ████████████░░░░░░░░  60% less manual work
+Latency     ███████████████████░  <200ms response
+Languages   ████████████████████  ES·DE·JP·FR·HI·AR
 ```
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -69,6 +74,8 @@ Scale     ████████████████████  6 langua
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-EF4444?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+[🔗 GitHub](https://github.com/Harshit-ops-code/ET-multiple-agent) · [🌐 Live](https://lex-is-ai.vercel.app/app/)
 
 </td>
 <td width="50%" valign="top">
@@ -91,6 +98,8 @@ Scale       ████████████████████  10K+ d
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+[🔗 GitHub](https://github.com/Harshit-ops-code/Truthshield) · [🌐 Live](https://truthshield-nu.vercel.app)
+
 </td>
 </tr>
 <tr>
@@ -107,6 +116,8 @@ JWT auth with Manager/Staff roles, real-time KPI dashboard, full audit trail, st
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
 
+[🔗 GitHub](https://github.com/Harshit-ops-code/stockmaster)
+
 </td>
 <td width="50%" valign="top">
 
@@ -120,6 +131,8 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[🔗 GitHub](https://github.com/Harshit-ops-code/expense-system)
 
 </td>
 </tr>
@@ -160,7 +173,7 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
@@ -168,8 +181,8 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=EF4444" width="100%"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true&bg_color=00000000"/>
-<img height="160" src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EF4444&currStreakLabel=8B5CF6&background=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true&bg_color=00000000"/>
+<img height="165" src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EF4444&currStreakLabel=8B5CF6&background=00000000"/>
 
 </div>
 
@@ -179,12 +192,13 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 <div align="center">
 
-| 🚀 ET Gen AI Hackathon | Top **6,000 / 54,000+** · Phase 2 Qualifier |
-|---|---|
-| 💻 LeetCode | **200+** problems · 50 Days Badge 2026 |
-| ⭐ CodeChef | Rating **1400** · 2★ · 8 contests |
-| 🥋 Taekwondo | **National-level** player |
-| 🎓 Tecknow Society | **5+ events** · **200+** students |
+| | | |
+|---|---|---|
+| 🚀 | ET Gen AI Hackathon | Top **6,000 / 54,000+** · Phase 2 Qualifier |
+| 💻 | LeetCode | **200+** problems · 50 Days Badge 2026 |
+| ⭐ | CodeChef | Rating **1400** · 2★ · 8 contests |
+| 🥋 | Taekwondo | **National-level** player |
+| 🎓 | Tecknow Society | **5+ events** · **200+** students |
 
 </div>
 
@@ -192,7 +206,7 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 <div align="center">
 
-*Currently learning: RAG Pipelines · Vector Databases · System Design*
+*Currently: DSA · System Design· RAG pipelines · Vector databases*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
