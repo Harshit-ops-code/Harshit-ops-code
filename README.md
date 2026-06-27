@@ -33,7 +33,7 @@
 
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000"/>
+
 
 ### 👋 About Me
 
@@ -47,7 +47,11 @@ I prefer understanding things properly before moving on — currently going deep
 - 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
 - 🥋 &nbsp;National-level Taekwondo player
 
-<br clear="right"/>
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000" width="280"/>
+</div>
 
 ---
 
@@ -177,7 +181,11 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=EF4444" width="100%"/>
 
@@ -206,7 +214,6 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 
 <div align="center">
 
-*Currently: DSA · System Design· RAG pipelines · Vector databases*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
