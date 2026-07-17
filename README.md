@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="150" alt="Harshit Kumar"/>
-</div>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-kumar-64143a323)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitkk5830@gmail.com)
@@ -38,6 +34,10 @@
 
 ### 👋 whoami
 
+<table width="100%">
+<tr>
+<td valign="middle">
+
 ```bash
 $ whoami
 > Harshit Kumar — 3rd yr CSE @ IIIT Kota
@@ -50,6 +50,15 @@ $ whoami
 - 🌱 &nbsp;**Learning:** Vector DBs · System Design · Advanced ML
 - 🎯 &nbsp;**Leading:** Event Lead @ Tecknow Society, IIIT Kota
 - 🥋 &nbsp;**Off-screen:** National-level Taekwondo player
+
+</td>
+<td width="240" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="220" alt="Harshit Kumar"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000" width="280"/>
