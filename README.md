@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20·%20Agentic%20AI%20·%20GenAI%20·%20Full-Stack&descSize=16&descAlignY=56"/>
 
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="140" alt="Harshit Kumar"/>
-
-<br/>
-
 <a href="https://linkedin.com/in/harshit-kumar-64143a323">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -39,6 +35,15 @@
 
 ### 👋 About Me
 
+<table width="100%">
+<tr>
+<td width="230" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="210" alt="Harshit Kumar"/>
+
+</td>
+<td valign="middle">
+
 I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I like building things that actually work — not just demos. Started with C++ and competitive programming, moved into backend dev, and now most of my time goes into Generative AI and Agentic AI systems.
 
 I prefer understanding things properly before moving on — currently going deeper on DSA, Python fundamentals, and RAG pipelines.
@@ -49,7 +54,9 @@ I prefer understanding things properly before moving on — currently going deep
 - 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
 - 🥋 &nbsp;National-level Taekwondo player
 
-<br/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000" width="280"/>
