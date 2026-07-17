@@ -61,7 +61,7 @@ $ whoami
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000" width="280"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000&cache_seconds=86400" width="280"/>
 </div>
 
 ---
@@ -190,7 +190,7 @@ Cold-Start Cut     ██████████████████░░ 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-ops-code&theme=tokyo-night&area=true&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=EF4444" width="100%"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit-ops-code&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&title_color=8B5CF6&icon_color=8B5CF6&include_all_commits=true&bg_color=00000000&cache_seconds=86400"/>
 <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=Harshit-ops-code&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=EF4444&currStreakLabel=8B5CF6&background=00000000"/>
 
 </div>
