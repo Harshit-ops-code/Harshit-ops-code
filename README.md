@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20·%20Agentic%20AI%20·%20GenAI%20·%20Full-Stack&descSize=16&descAlignY=56"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Harshit%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20·%20Agentic%20AI%20·%20GenAI%20·%20Full-Stack&descSize=16&descAlignY=56"/>
 
 <a href="https://linkedin.com/in/harshit-kumar-64143a323">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
