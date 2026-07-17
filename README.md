@@ -34,9 +34,7 @@
 
 ### 👋 whoami
 
-<table width="100%">
-<tr>
-<td valign="middle">
+<img align="right" src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="220" alt="Harshit Kumar"/>
 
 ```bash
 $ whoami
@@ -51,18 +49,7 @@ $ whoami
 - 🎯 &nbsp;**Leading:** Event Lead @ Tecknow Society, IIIT Kota
 - 🥋 &nbsp;**Off-screen:** National-level Taekwondo player
 
-</td>
-<td width="240" valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="220" alt="Harshit Kumar"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000&cache_seconds=86400" width="280"/>
-</div>
+<br clear="right"/>
 
 ---
 
