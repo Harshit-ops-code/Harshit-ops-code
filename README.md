@@ -37,6 +37,17 @@
 
 ### 👋 About Me
 
+<table width="100%">
+<tr>
+<td width="230" valign="top" align="center">
+
+<img src="assets/profile.jpg" width="210" alt="Harshit Kumar"/>
+
+<sub>📍 Ladakh, high on GenAI and higher altitudes</sub>
+
+</td>
+<td valign="top">
+
 I'm **Harshit Kumar**, a 3rd year CSE student at **IIIT Kota**. I like building things that actually work — not just demos. Started with C++ and competitive programming, moved into backend dev, and now most of my time goes into Generative AI and Agentic AI systems.
 
 I prefer understanding things properly before moving on — currently going deeper on DSA, Python fundamentals, and RAG pipelines.
@@ -47,7 +58,9 @@ I prefer understanding things properly before moving on — currently going deep
 - 🎯 &nbsp;Event Lead @ Tecknow Society, IIIT Kota
 - 🥋 &nbsp;National-level Taekwondo player
 
-<br/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-ops-code&theme=tokyonight&hide_border=true&layout=donut&title_color=8B5CF6&bg_color=00000000" width="280"/>
@@ -107,36 +120,26 @@ Scale       ████████████████████  10K+ d
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-#### 📦 [StockMaster](https://github.com/Harshit-ops-code/stockmaster) &nbsp;![](https://img.shields.io/badge/DONE-22C55E?style=flat-square)
+#### 🏠 [Basera & Homie — Direct Relocation Engine](https://github.com/Harshit-ops-code/HOMIE)
 
-**Role-Based Inventory System**
+**AI-Powered Housing Platform with Virtual LLM Landlords**
 
-JWT auth with Manager/Staff roles, real-time KPI dashboard, full audit trail, stock IN/OUT/TRANSFER ops.
+Real-time relocation engine combining an LLM-driven negotiation simulator with geospatial search. Virtual landlords negotiate live over streaming APIs, while a custom ray-casting engine maps listings across coordinates in real time.
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+```
+Negotiation TTFT   ███████████████████░  <350ms avg response
+Geo Search         ████████████████████  <8ms / 1,000+ coords
+Cold-Start Cut     ██████████████████░░  92% faster (2000ms → <150ms)
+```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens)
+![Groq](https://img.shields.io/badge/Groq%20·%20Llama--3-F55036?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[🔗 GitHub](https://github.com/Harshit-ops-code/stockmaster)
-
-</td>
-<td width="50%" valign="top">
-
-#### 💰 [Expense System](https://github.com/Harshit-ops-code/expense-system) &nbsp;![](https://img.shields.io/badge/DONE-22C55E?style=flat-square)
-
-**Smart Expense Tracker**
-
-Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed CRUD APIs via FastAPI.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[🔗 GitHub](https://github.com/Harshit-ops-code/expense-system)
+[🔗 GitHub](https://github.com/Harshit-ops-code/HOMIE)
 
 </td>
 </tr>
@@ -170,7 +173,7 @@ Auto-categorization cut manual logging by 40%. Real-time dashboard, SQL-backed C
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
