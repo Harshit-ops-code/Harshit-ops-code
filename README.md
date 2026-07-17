@@ -41,7 +41,7 @@
 <tr>
 <td width="230" valign="top" align="center">
 
-<img src="assets/profile.jpg" width="210" alt="Harshit Kumar"/>
+<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="210" alt="Harshit Kumar"/>
 
 <sub>📍 Ladakh, high on GenAI and higher altitudes</sub>
 
