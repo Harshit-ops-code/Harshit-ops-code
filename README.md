@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg" width="150" alt="Harshit Kumar"/>
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/Harshit-ops-code/Harshit-ops-code/main/profile.jpg&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="150" alt="Harshit Kumar"/>
 </div>
 
 <div align="center">
